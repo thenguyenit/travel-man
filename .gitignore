@@ -1,0 +1,12 @@
+phpunit.cmd
+phpunit.phar
+
+composer.phar
+composer.lock
+
+### PhpStorm ###
+/.idea
+
+### ide helper
+_ide_helper.php
+.phpstorm.meta.php
